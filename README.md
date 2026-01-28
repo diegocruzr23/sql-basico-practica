@@ -4,7 +4,7 @@ Este repositorio contiene ejercicios básicos de SQL enfocados en
 consultas comunes usadas en entornos reales (reportes y análisis).
 
 ## Motor
-- MySQL / SQL Server (ajustable)
+- MySQL 
 
 ## Tablas usadas
 - actores(id, nombre)
